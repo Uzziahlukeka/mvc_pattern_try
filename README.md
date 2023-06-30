@@ -1,5 +1,5 @@
 # mvc_pattern_try
-after learning what is a mvc pattern , i tried to make this project in MVC
+after learning what is a mvc pattern in PHP , i tried to make this project in MVC
 
 ### Description 
 
