@@ -19,7 +19,7 @@ have a option to go to the user pages and can create other admis only if they kn
 it contents name , description and image can be created , edited , updated or deleted only by an admis and have a create day in the admis pannel 
 
 
-#realisation 
+# realisation 
 
 Image Display and Artist Contact Application
 Technology: PHP, MVC Pattern, Database
